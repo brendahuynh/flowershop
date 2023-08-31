@@ -1,0 +1,20 @@
+body {font-family: Centaur, Arial;
+	font-size: 14 pt;}
+	
+P	{margin-left: 10pt;
+	margin-right: 10pt}
+	
+	a	{text-decoration: none;
+	color: black;}
+	
+	
+	table{
+		border-width:10px}
+	
+	th	{color:white;
+	background-color:#87aaae;}
+	
+	tr.stripe	{background-color: #ddecef}
+	
+	caption {background-color: #ffb573;}
+	
